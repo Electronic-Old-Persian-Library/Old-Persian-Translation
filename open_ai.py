@@ -1,3 +1,5 @@
+#!pip install openai==0.28
+
 # import openai library
 import openai
 
@@ -7,7 +9,7 @@ openai.api_key = ""
 # this loop will let us ask questions continuously and behave like ChatGPT
 while True:
     # Set up the model and prompt
-    model_engine = "text-davinci-003"
+    model_engine = "gpt-3.5-turbo-instruct"
     
     prompt = input('Enter new prompt: ')
 
