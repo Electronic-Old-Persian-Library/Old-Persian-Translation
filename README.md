@@ -1,3 +1,3 @@
-# Translation-Cuneiform-to-English
+# Old-Persian-Translation 
 
 This repo is under developing...
