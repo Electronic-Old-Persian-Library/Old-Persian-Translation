@@ -1,3 +1,3 @@
-# Old-Persian-Translation 
+# Old-Persian-Translation by AI
 
 This repo is under developing...
